@@ -1,6 +1,8 @@
 # Simple-Calculator-using-HTML-CSS-JAVASCRIPT
 
  Day 1: Calculator App — HTML, CSS & JavaScript
+
+ LIVE DEMO: https://aishh1460.github.io/Simple-Calculator-using-HTML-CSS-JAVASCRIPT/
  
 Welcome to Day 1 of my Full-Stack Developer Journey!
 
@@ -24,8 +26,6 @@ Features:
 <img width="1903" height="900" alt="image" src="https://github.com/user-attachments/assets/0bb7f758-009d-4d33-a06a-a34d14aed70d" />
 <img width="1902" height="890" alt="image" src="https://github.com/user-attachments/assets/b47ff9e3-886d-4184-8fc6-cb5c71157eb9" />
 
-LIVE DEMO:
-Compile the files *calc.html,c.css and cal.js*  to get a live fully functional calculator
 
 
 
